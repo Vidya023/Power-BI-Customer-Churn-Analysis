@@ -9,3 +9,4 @@
 7. **Data Analysis** – Creating measures using DAX.
 8. **Data Visualization** – Designing and formatting visual elements.
 9. **Enhancing Report** – Applying and customizing themes.
+
